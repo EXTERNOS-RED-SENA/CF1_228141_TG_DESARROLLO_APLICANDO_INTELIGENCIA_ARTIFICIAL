@@ -106,7 +106,7 @@
           img.img-a.img-t.mb-4(src='@/assets/curso/temas/41.png' alt='')     
           h5 Análisis de resultados
           p Evaluar cómo el sistema responde a las simulaciones y detectar posibles fallos o áreas de mejora.
-          p.mb-0 #[b Ejemplo:] Si el sistema no actualiza los datos de inventario en tiempo real durante la simulación, esto indicaría un área que requiere optimización.
+          p.mb-0 #[b Ejemplo:] si el sistema no actualiza los datos de inventario en tiempo real durante la simulación, esto indicaría un área que requiere optimización.
  
       .col-lg-4.my-lg-0.my-3
         .bg8.p-4.h-100.j1.brad

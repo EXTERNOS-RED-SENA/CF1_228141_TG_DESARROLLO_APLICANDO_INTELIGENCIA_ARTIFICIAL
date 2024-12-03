@@ -121,7 +121,7 @@
 
                   li 
                     i.fas.fa-check-circle.color1
-                    span #[b Stakeholders:] personas que tienen un interés en el éxito del sistema, como gerentes de proyecto, patrocinadores y equipos de soporte técnico.                
+                    span #[b #[i Stakeholders:]] personas que tienen un interés en el éxito del sistema, como gerentes de proyecto, patrocinadores y equipos de soporte técnico.                
               .col-lg-5.my-2 
                 img.img-a.img-t(src='@/assets/curso/temas/16.png', alt='')                                    
 

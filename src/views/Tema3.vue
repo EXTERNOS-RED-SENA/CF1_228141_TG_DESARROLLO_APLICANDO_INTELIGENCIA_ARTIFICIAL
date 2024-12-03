@@ -24,12 +24,12 @@
       .col-lg-8.my-lg-0.my-3
         AcordionA(tipo="a" clase-tarjeta="tarjeta bg7")
           div(titulo="Métodos de análisis")
-            p Reuniones con stakeholders, entrevistas en profundidad, y observación de procesos.
+            p Reuniones con #[i stakeholders], entrevistas en profundidad, y observación de procesos.
             ul.lista-ul.fa-ul
               li 
                 i.fas.fa-check-circle.color1
                 span #[b Ejemplo:] en un proyecto de desarrollo de una aplicación de gestión de inventario, se realizarían entrevistas con el equipo de almacén para comprender sus flujos de trabajo y necesidades específicas.                           
-          div(titulo="Métodos de análisis")
+          div(titulo="Identificación de objetivos")
             p A partir de las necesidades recopiladas, se deben definir objetivos claros y alcanzables.
             ul.lista-ul.fa-ul
               li 
@@ -47,7 +47,7 @@
           #t_3_2.titulo-segundo.color-acento-contenido
             h2 3.2	Creación de diagramas y prototipos
 
-          p Los diagramas y prototipos son herramientas visuales que ayudan a representar la estructura y funcionalidad del sistema, facilitando la comunicación entre los desarrolladores, diseñadores y stakeholders.
+          p Los diagramas y prototipos son herramientas visuales que ayudan a representar la estructura y funcionalidad del sistema, facilitando la comunicación entre los desarrolladores, diseñadores y #[i stakeholders].
 
           .row.justify-content-center
             .col-lg-12
@@ -130,7 +130,7 @@
     #t_3_4.titulo-segundo.color-acento-contenido
       h2 3.4	Integración de puntos de vista en el diseño
 
-    p Es fundamental integrar los diferentes puntos de vista de los stakeholders en el diseño del sistema para garantizar que se cumplan todas las expectativas y se aborden las posibles limitaciones.
+    p Es fundamental integrar los diferentes puntos de vista de los #[i stakeholders] en el diseño del sistema para garantizar que se cumplan todas las expectativas y se aborden las posibles limitaciones.
     TabsC.color-acento-contenido
       .py-3.py-md-4.bg11(titulo="Identificación de puntos de vista")
         .row.justify-content-center.py-4
@@ -138,7 +138,7 @@
             img.img-a.img-t(src='@/assets/curso/temas/35.png' alt='')  
           .col-lg-7.my-lg-0.my-3
             h5 Identificación de puntos de vista  
-            p Diferentes stakeholders, como usuarios finales, desarrolladores, y gerentes de proyecto, pueden tener perspectivas únicas sobre el sistema.
+            p Diferentes #[i stakeholders], como usuarios finales, desarrolladores, y gerentes de proyecto, pueden tener perspectivas únicas sobre el sistema.
             ul.lista-ul.fa-ul
               li 
                 i.fas.fa-check-circle.color1
