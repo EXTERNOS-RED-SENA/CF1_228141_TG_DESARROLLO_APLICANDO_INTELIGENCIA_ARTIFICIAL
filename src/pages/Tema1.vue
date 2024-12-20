@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 Caracterización de la información
+      h1 Recolección de datos
       
     .row.justify-content-center.bg3.p-0.mb-4  
       .col-lg-8.my-lg-0.my-3.p-3.j1 
@@ -48,7 +48,7 @@
                 span #[b Ejemplo:] En un proyecto para un sistema de reservas de vuelos, se podría enviar un cuestionario a clientes frecuentes preguntando cómo califican su experiencia actual y qué aspectos creen que deberían mejorarse.
               li 
                 i.fas.fa-check-circle.color1
-                span #[b Consejo:] Diseñar las preguntas para que sean fáciles de entender y no generen ambigüedades, como “¿Con qué frecuencia tiene problemas al realizar una reserva en línea?” con opciones como “Siempre”, “A menudo”, “Rara vez”, “Nunca”.
+                span #[b Consejo:] Diseñar las preguntas para que sean fáciles de entender y no generen ambigüedades, como “¿Con qué frecuencia tiene problemas al realizar una reserva en línea?”, con opciones como “Siempre”, “A menudo”, “Rara vez”, “Nunca”.
 
       .py-3.py-md-4.bg11(titulo="Observación")
         .row.justify-content-center.py-4

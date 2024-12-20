@@ -78,7 +78,7 @@
               tr
                 td.text-bold(rowspan='5') IEEE 830
                 td.text-bold(rowspan='5') Especificación de Requisitos de #[i software] (SRS)
-                td(rowspan='5') Esta norma proporciona una estructura estándar y detallada para documentar los requisitos de #[i software], lo que asegura una comunicación clara y consistente entre los equipos de desarrollo, diseño y los stakeholders. Permite identificar de manera precisa las necesidades funcionales y no funcionales del sistema, minimizando ambigüedades y facilitando el seguimiento del desarrollo.
+                td(rowspan='5') Esta norma proporciona una estructura estándar y detallada para documentar los requisitos de #[i software], lo que asegura una comunicación clara y consistente entre los equipos de desarrollo, diseño y los #[em stakeholders]. Permite identificar de manera precisa las necesidades funcionales y no funcionales del sistema, minimizando ambigüedades y facilitando el seguimiento del desarrollo.
                 td - #[b Propósito del sistema:] describe el objetivo general y el alcance del #[i software], así como los beneficios que proporciona.
               tr
                 td - #[b Descripción general:] ofrece un resumen del sistema, definiendo las principales funcionalidades y restricciones.
@@ -87,7 +87,7 @@
               tr
                 td - #[b Requisitos no funcionales:] define atributos como seguridad, rendimiento, disponibilidad y otros aspectos de calidad.
               tr
-                td - #[b Interfaces externas:] explica las interacciones con otros sistemas, hardware, #[i software] y usuarios, especificando las interfaces de usuario y las conexiones necesarias.
+                td - #[b Interfaces externas:] explica las interacciones con otros sistemas, #[em hardware], #[i software] y usuarios, especificando las interfaces de usuario y las conexiones necesarias.
               tr
                 td.text-bold(rowspan='4') IEEE 29148
                 td.text-bold(rowspan='4') Gestión de Requisitos de Ingeniería de Sistemas
